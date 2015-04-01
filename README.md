@@ -1,7 +1,6 @@
 基础web框架
 ========================================
 
----
 ### 基本结构
 1. springmvc+mybatis+freemarker
 2. maven项目
