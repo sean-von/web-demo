@@ -1,0 +1,10 @@
+target/
+.idea/
+.classes
+.settings/
+.myeclipse/
+.eclipse/
+.project
+.mymetadata
+.classpath
+web-demo.*
